@@ -1,3 +1,2 @@
 # LA14-Rayo
-blog_demoRayo
-i can't upload the file so i uploaded it one by one
+i can't upload the file so i uploaded it one by one. open the branch with a name "CJ-7-CJ-blog_demoRayo"
